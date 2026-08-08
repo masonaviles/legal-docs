@@ -1,6 +1,6 @@
 # Privacy Policy — Yupoo Companion
 
-_Last updated: 2 August 2026_
+_Last updated: 7 August 2026_
 
 Yupoo Companion is a browser extension that changes how Yupoo (yupoo.com)
 catalog pages look and behave. This policy explains exactly what it stores.
@@ -20,7 +20,8 @@ API. None of it is ever sent anywhere.
 | --- | --- |
 | Display preferences (image size, spacing, colors, dark mode, hidden elements, custom CSS) | To keep your settings between visits |
 | Named presets | So you can save and re-apply combinations of the above |
-| Starred items, notes and tags | To let you keep track of items while browsing |
+| Starred items — for each item you star, its album address, the album title, and the address of its thumbnail image | To show that item again on the Favorites page |
+| Notes and tags you type onto starred items | To let you annotate and organise what you saved |
 | Shop access codes | So password-protected Yupoo shops can be unlocked without retyping the code |
 | Link-converter preference | To remember which shopping agent you prefer |
 
@@ -34,9 +35,17 @@ way a browser stores form data.
 Please do not enter anything here that protects a real account. These fields are
 intended only for shop access codes handed out by sellers.
 
+### About starred items
+
+Starring an item saves a pointer to it — the album's address, its title and its
+thumbnail's address — so the Favorites page can show it to you later. Only items
+you explicitly star are saved. The extension does not keep a record of the pages
+you visit, and nothing is saved unless you click the star.
+
 ## Data we do NOT handle
 
 - No personal information is collected.
+- No record of pages you have visited is kept.
 - No browsing history is recorded or transmitted.
 - No data is sold or shared with third parties.
 - No analytics, telemetry, or tracking of any kind.
