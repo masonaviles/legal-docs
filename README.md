@@ -12,6 +12,15 @@ extension update — not just at first submission.
 | --- | --- |
 | Yupoo Companion | [yupoo-companion-privacy.md](yupoo-companion-privacy.md) |
 
+## Apps
+
+| App | Privacy policy | Terms of use |
+| --- | --- | --- |
+| Overmelt | [overmelt-privacy.md](overmelt-privacy.md) | [overmelt-terms.md](overmelt-terms.md) |
+
+The App Store and Google Play link to these files, and so does the app itself (Settings →
+About), so the same rule applies: keep the repository public and never rename them.
+
 ## Notes for future me
 
 - **Keep this repository public.** A 404 on any policy URL blocks Chrome Web
