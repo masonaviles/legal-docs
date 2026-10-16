@@ -14,9 +14,9 @@ extension update — not just at first submission.
 
 ## Apps
 
-| App | Privacy policy | Terms of use |
-| --- | --- | --- |
-| Overmelt | [overmelt-privacy.md](overmelt-privacy.md) | [overmelt-terms.md](overmelt-terms.md) |
+| App | Privacy policy | Terms of use | Support |
+| --- | --- | --- | --- |
+| Overmelt | [overmelt-privacy.md](overmelt-privacy.md) | [overmelt-terms.md](overmelt-terms.md) | [overmelt-support.md](overmelt-support.md) |
 
 The App Store and Google Play link to these files, and so does the app itself (Settings →
 About), so the same rule applies: keep the repository public and never rename them.
